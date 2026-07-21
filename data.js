@@ -64,6 +64,7 @@ const semesters = {
         { code: "ICI4248", name: "Ingeniería de Requerimientos", prereq: ["ICI4247"], credits: 4 },
         { code: "ICI4370", name: "Ciberseguridad", prereq: ["ICI3343"], credits: 4 },
         { code: "ICI4541", name: "Taller de Base de Datos", prereq: ["ICI3240"], credits: 4 },
+        { code: "OPT1", name: "Optativo 1", prereq: [], credits: 4 },
         { code: "FOFU3", name: "Formación Fundamental 3", prereq: [], credits: 2 }
     ],
 
@@ -72,6 +73,7 @@ const semesters = {
         { code: "ICI5441", name: "Administración de Proyectos Informáticos", prereq: [], credits: 3 },
         { code: "ICI5442", name: "Tecnologías Emergentes", prereq: [], credits: 4 },
         { code: "ICI5475", name: "Negocios, Innovación y Emprendimiento", prereq: [], credits: 3 },
+        { code: "OPT2", name: "Optativo 2", prereq: [], credits: 4 },
         { code: "ICI5545", name: "Taller de Ingeniería de Software", prereq: ["ICI4244"], credits: 4 }
     ],
 
@@ -97,7 +99,8 @@ const semesters = {
                 "ICI3244"
             ],
             credits: 5
-        }
+        },
+        { code: "OPT3", name: "Optativo 3", prereq: [], credits: 4 }
     ],
 
     11: [
@@ -106,6 +109,7 @@ const semesters = {
             name: "Proyecto de Título",
             prereq: ["ICI5541"],
             credits: 12
-        }
+        },
+        { code: "OPT4", name: "Optativo 4", prereq: [], credits: 4 }
     ]
 };
