@@ -140,8 +140,8 @@ h1 {
     border-left: 6px solid #2196f3;
 }
 
-/* INF - Azul Tecnológico */
-.course.inf {
+/* ICI - Azul Tecnológico */
+.course.ici {
     background-color: #1f4d3a !important;
     border-left: 6px solid #4caf50;
 }
@@ -196,7 +196,7 @@ h1 {
 
 /* ===== BLOQUEADOS POR SIGLA ===== */
 .course.mat.locked,
-.course.inf.locked,
+.course.ici.locked,
 .course.eii.locked,
 .course..locked,
 .course.fis.locked,
@@ -212,7 +212,7 @@ h1 {
 
 /* ===== APROBADOS POR SIGLA ===== */
 .course.mat.approved,
-.course.inf.approved,
+.course.ici.approved,
 .course.eii.approved,
 .course.ica.approved,
 .course.fis.approved,
