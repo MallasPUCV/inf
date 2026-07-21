@@ -152,7 +152,7 @@ h1 {
     border-left: 6px solid #8d6e63;
 }
 
-/* QUI - Morado */
+/* ica - Morado */
 .course.ica {
     background-color: #D124C6 !important;
     border-left: 6px solid #9b59b6;
@@ -198,7 +198,7 @@ h1 {
 .course.mat.locked,
 .course.inf.locked,
 .course.eii.locked,
-.course.qui.locked,
+.course..locked,
 .course.fis.locked,
 .course.ing.locked,
 .course.fin.locked,
@@ -214,7 +214,7 @@ h1 {
 .course.mat.approved,
 .course.inf.approved,
 .course.eii.approved,
-.course.qui.approved,
+.course.ica.approved,
 .course.fis.approved,
 .course.ing.approved,
 .course.fin.approved,
